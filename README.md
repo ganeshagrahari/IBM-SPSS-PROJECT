@@ -8,8 +8,8 @@
 Mr. Robin Tyagi
 
 **SUBMITTED BY:**  
-**Name:** Ganesh Agrhari  
-**Roll No:** 1230258126  
+**Name:** Ganesh Agrhari  and Devansh Singh
+**Roll No:** 1230258126 ,1230258160
 **Class:** BCA DS&AI - 33  
 **Subject:** Predictive Analytics (BCADSN15301)
 
