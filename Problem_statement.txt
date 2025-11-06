@@ -1,0 +1,11 @@
+Data integration in SPSS Modeler refers to the systematic process of combining data from multiple disparate sources into a unified, consistent, and comprehensive dataset suitable for advanced analytics. This process involves various operations that transform, consolidate, and refine raw data into actionable information. The primary operations include:
+
+Merge Operations: Joining datasets horizontally based on common key fields (such as Customer ID), enabling the combination of related information from different sources into a single record. This is analogous to SQL JOIN operations.
+
+Append Operations: Stacking datasets vertically to combine records from multiple sources or time periods, creating a comprehensive historical view of data.
+
+Aggregate Operations: Summarizing transactional or detailed data by grouping records and applying statistical functions (sum, count, average, etc.) to create higher-level analytical units.
+
+Sampling Operations: Selecting representative subsets of data to improve processing efficiency while maintaining statistical validity.
+
+These integration operations collectively help in removing duplicate records, consolidating information from multiple sources, creating unified datasets for comprehensive analysis, and ensuring data quality and consistency. The result is a single source of truth that provides a 360-degree view of the analytical subject, enabling more accurate predictive modeling and business intelligence.
